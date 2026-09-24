@@ -2,5 +2,5 @@
 Data Science Labs
 
 ## Working with data
-### Data processing with Pandas
+### [Data processing with Pandas](https://github.com/nd-hung/data-science-labs/blob/main/labs/working-with-data.ipynb)
 ### Data Visualization
